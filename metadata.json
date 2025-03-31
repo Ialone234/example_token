@@ -2,7 +2,6 @@
   "name": "Sparrow Token",
   "symbol" : "Spa",
   "description" : "Example token for Solana Foundation Bootcamp.",
-
-  "image": "https://github.com/Ialone234/example_token/blob/00bcfdcdebd79c0b43f8b9cc2c4d2ebbe9b0d71b/sparrow-coin.jpeg"
+  "image": "https://raw.githubusercontent.com/Ialone234/example_token/refs/heads/main/sparrow-coin.jpeg"
 
 }
